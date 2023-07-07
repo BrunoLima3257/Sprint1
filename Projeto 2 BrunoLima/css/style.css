@@ -1,0 +1,29 @@
+body{/* abrindo body */
+background-color: #42e6f5;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20pt;
+}/* fechando body */
+
+/* criando uma classe exemplo */
+.titulo{
+font-size: 35pt;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(0, 128, 105);
+}
+
+.sexta{ 
+font-size: 20pt;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:blueviolet;
+}
+
+.madrugada{
+text-align: justify;
+}
+
+
+
+
+
+
